@@ -23,5 +23,6 @@ public class DemoAutomation {
         System.out.println(driver.getTitle());
         Thread.sleep(3000);
         driver.quit();
+
     }
 }
